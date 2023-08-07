@@ -1,0 +1,1 @@
+In this project I practiced using the DOcument Object Model functions of Javascript in order to make a dice game that changes the dice roll on refresh and calls out a winner based off of who got the bigger number.
